@@ -1,0 +1,28 @@
+{
+  "name": "docker-random-names",
+  "version": "1.0.0",
+  "description": "Generate Docker style random names from the command line",
+  "main": "name.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anttiviljami/docker-random-names.git"
+  },
+  "keywords": [
+    "docker",
+    "style",
+    "random",
+    "names"
+  ],
+  "author": "Antti Kuosmanen <antti@seravo.fi>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/anttiviljami/docker-random-names/issues"
+  },
+  "homepage": "https://github.com/anttiviljami/docker-random-names#readme",
+  "dependencies": {
+    "docker-names": "^1.0.0"
+  }
+}
